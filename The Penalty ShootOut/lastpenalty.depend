@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1514018693 source:c:\users\stone\desktop\lastpenalty\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+
+976645372 c:\program files\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1514263578 source:h:\my codes\graphics\lastpenalty\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+	<sstream>
+
+1515421823 source:f:\educations\department\project\graphics\maun's part (2nd player)\lastpenalty\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+	<sstream>
+
+1516016375 source:f:\educations\department\project\graphics\the penalty shootout\main.cpp
+	<windows.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<mmsystem.h>
+	<sstream>
+
